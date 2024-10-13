@@ -1,4 +1,4 @@
-# Milan's Portfolio
+# Miguel's Portfolio
 Welcome to my portfolio! This website showcases my skills, and it's also a demonstration of those skills in action. The website uses React as the front-end library. One of the unique aspects of this portfolio is that the content is based on a JSON file. This data file primarily contains projects, which are dynamically displayed on the website.
 
 Here's your text with corrections:
