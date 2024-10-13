@@ -1,10 +1,10 @@
 {
     "user": {
-        "email": "234324@student.scalda.nl",
-        "linkedIn" : "https://www.linkedin.com/in/milan-van-der-burgh-606379237/",
-        "github": "https://github.com/Milanvanderburgh",
-        "twitter": "https://x.com/Snickerpad",
-        "instagram": "https://www.instagram.com/justmilan._/"
+        "email": "MiguelBrugge@gmail.com",
+        "linkedIn" : "https://www.linkedin.com/in/miguel-brugge-780b66239/",
+        "github": "https://github.com/MiguelBrugge",
+        "twitter": "https://x.com/Miguel_Brugge",
+        "instagram": "https://www.instagram.com/miguel_brugge/"
     },
     "settings": {
         "maxProjects": 4
@@ -79,7 +79,7 @@
             "labels": "Java, OOP",
             "link1": {
                 "name": "Github",
-                "link": "https://github.com/Milanvanderburgh/PokemonGame"
+                "link": "https://github.com/MiguelBrugge/Pokemon-Game"
             }
         }
     ]
