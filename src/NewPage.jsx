@@ -27,9 +27,9 @@ function NewPage({ setCurrentPage, currentPage }) {
               <img src="images/Myself.png" alt="" className='w-100' height={350} width={700} />
               <h2 className='text-center mt-3'>Myself</h2>
               <p>
-                I am 20 years old and live in Zeeland. I'm currently studying to become a Software Developer because I love coding. My goal is to become a skilled Software Developer and create anything I need.
+                I am 21 years old and live in Zeeland. I'm currently studying to become a Software Developer because I love coding. My goal is to become a skilled Software Developer and create anything I need.
                 <br></br><br></br>
-                My main hobbies are gaming, coding and watching films. Gaming helps me think strategically, while watching films allows me to unwind and appreciate storytelling. I enjoy socializing and creating memories with friends.
+                My main hobbies are going to the gym, gaming, coding and watching films. Gaming helps me think strategically, while watching films allows me to unwind and appreciate storytelling. I enjoy socializing and creating memories with friends.
                 <br></br><br></br>
                 I believe in balancing work and play to maintain a well-rounded life. I find joy in collaborating with others and am always eager to learn new things and take on challenges. My passion for technology drives me to constantly improve my skills, and my dedication to my studies and hobbies helps me stay motivated and inspired. Ultimately, I aim to combine my technical expertise with my creative interests to make a positive impact in the software development field.</p>
             </div>
@@ -47,7 +47,7 @@ function NewPage({ setCurrentPage, currentPage }) {
               <p>During my third-year internship at Unitron in IJzendijke, I had a rewarding experience as a software developer. Working on enhancing the RMA software allowed me to dive deep into the Django framework, gaining valuable insights and skills along the way. The hands-on experience and guidance from the team helped me grow professionally and reinforced my passion for software development.</p>
               <h5 className='mainColor'>Education</h5>
               <b>HZ (HBO-ICT)</b>
-              <p>I am currently in my first year of the HBO-ICT program at HZ. After completing my previous education in software development at Scalda in Vlissingen in just three years, I am excited to continue my journey in the field of technology.
+              <p>I am currently in my first year of the HBO-ICT program at HZ. After completing my previous education in software development at Scalda in Vlissingen in just three years instead of the usual four, I am excited to continue my journey in the field of technology.
                 This first year has been a fantastic experience so far, allowing me to expand my knowledge in various areas such as programming, web development, and systems analysis. The curriculum is engaging and practical, providing opportunities to work on real-world projects that enhance my problem-solving and critical-thinking skills.
               </p>
               <b>Scalda (Software Development)</b>
@@ -67,9 +67,9 @@ function NewPage({ setCurrentPage, currentPage }) {
               <img src="images/Skills.png" className='w-100' alt="" height={350} width={700} />
               <h2 className='text-center mt-3'>Skills</h2>
               <h5 className='mainColor'>Back-End</h5>
-              <p>In the back-end realm, I've gained proficiency in Java, SQL, Python, and various frameworks like Hibernate, Struts, and Django. These skills enable me to develop robust and efficient server-side applications, handle data management effectively, and create dynamic web solutions.</p>
+              <p>In the back-end realm, I've gained proficiency in Java, SQL, Python, and various frameworks like Hibernate, Struts, Laravel, and Django. These skills enable me to develop robust and efficient server-side applications, handle data management effectively, and create dynamic web solutions.</p>
               <h5 className='mainColor'>Front-End</h5>
-              <p>On the front-end side, I'm well-versed in Bootstrap, HTML/CSS, and JavaScript. This expertise allows me to craft visually appealing and user-friendly interfaces, ensuring an engaging experience for website visitors and application users alike.</p>
+              <p>On the front-end side, I'm well-versed in Bootstrap, HTML/CSS, PHP, and TypeScript/JavaScript. This expertise allows me to craft visually appealing and user-friendly interfaces, ensuring an engaging experience for website visitors and application users alike.</p>
               <h5 className='mainColor'>Other</h5>
               <p>I am passionate about game development and focus on scripting and 3D modeling using Blender. My current interest lies in UI design, where I use Figma to develop intuitive interfaces. Figma allows me to prototype and iterate quickly, ensuring seamless player interactions.</p>
             </div>
