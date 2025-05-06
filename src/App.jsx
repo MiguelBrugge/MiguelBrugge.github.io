@@ -65,8 +65,8 @@ function App({ currentPage, setCurrentPage }) {
         <div className="col-lg-6 d-flex flex-column justify-content-center gap-5">
           <h1 className='title'>Achievement is built on <span className='mainColor fst-italic'>dedication</span> {currentPage.pageName} </h1>
           <span>
-            <p className='largeText'>Hello, I am Miguel Brugge a professional software developer!</p>
-            <p>I am 21 years old and live in Zeeland. I work critically and enjoy helping others. I'm currently studying to become a Software Developer because I love coding. My goal is to become a skilled Software Developer and create anything I need.</p>
+            <p className='largeText'>Hello, I am Miguel Brugge a junior software developer!</p>
+            <p>I’m 21 years old and live in Zeeland. I work with a critical mindset and enjoy helping others. I’m currently studying to become a Software Developer because I love coding. My goal is to become skilled in development and build anything I need.</p>
           </span>
           <StyledButton text="Let's talk" onClick={() => contactPage.current.scrollIntoView({ behavior: 'smooth' })} />
         </div>
@@ -84,9 +84,9 @@ function App({ currentPage, setCurrentPage }) {
         <h1 className='text-center title'>About me</h1>
         <div className="row justify-content-between position-relative gap-5">
           <hr className="line lineTop position-absolute"></hr>
-          <AboutElement icon={faUser} title="Myself" description="Learn more about my hobbies and teamroles." onClick={() => setCurrentPage("Myself")} />
-          <AboutElement icon={faPersonHiking} title="Experience" description="Find out why I chose this career path and how it is going so far." onClick={() => setCurrentPage("Experience")} />
-          <AboutElement icon={faMedal} title="Skills" description="Find out what kinds of skills I posess." onClick={() => setCurrentPage("Skills")} />
+          <AboutElement icon={faUser} title="Myself" description="Find out about my hobbies and how I function in a team." onClick={() => setCurrentPage("Myself")} />
+          <AboutElement icon={faPersonHiking} title="Experience" description="Learn why I chose this career and how my journey is progressing." onClick={() => setCurrentPage("Experience")} />
+          <AboutElement icon={faMedal} title="Skills" description="Learn more about my skill set." onClick={() => setCurrentPage("Skills")} />
           <hr className="line lineBottom position-absolute"></hr>
         </div>
       </div>

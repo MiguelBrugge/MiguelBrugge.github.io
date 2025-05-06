@@ -27,7 +27,7 @@ function NewPage({ setCurrentPage, currentPage }) {
               <img src="images/Myself.png" alt="" className='w-100' height={350} width={700} />
               <h2 className='text-center mt-3'>Myself</h2>
               <p>
-                I am 21 years old and live in Zeeland. I'm currently studying to become a Software Developer because I love coding. My goal is to become a skilled Software Developer and create anything I need.
+              I’m 21 years old and based in Zeeland. I have a critical mindset and enjoy supporting others. I’m currently studying to become a Software Developer, driven by my passion for coding. My goal is to develop strong skills so I can create anything I need.
                 <br></br><br></br>
                 My main hobbies are going to the gym, gaming, coding and watching films. Gaming helps me think strategically, while watching films allows me to unwind and appreciate storytelling. I enjoy socializing and creating memories with friends.
                 <br></br><br></br>
