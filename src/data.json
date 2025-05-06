@@ -44,18 +44,6 @@
             }
         },
         {
-            "image": "projects/SlideHub_HoofdPagina.png",
-            "alt": "Project Image",
-            "title": "SlideHub",
-            "description": "This application allows you to create slides that can loop continuously on multiple TVs using a Raspberry Pi. This application is used inside or school and soon to be many more!",
-            "pageDescription": "This application, built using Java along with the Hibernate and Struts2 frameworks, enables you to create and manage slideshows that loop continuously on multiple TVs via Raspberry Pi devices. It provides a user-friendly interface for designing slides, complete with text, images, and other multimedia elements. Once the slides are created, they can be organized into a sequence and deployed to the connected TVs, ensuring seamless and synchronized display across all screens.",
-            "labels": "Java, Hibernate, Struts2, SQL, JavaScript, HTML/CSS, Bootstrap",
-            "link1": {
-                "name": "SlideHub",
-                "link": "http://slidehub.delphinity.nl/"
-            }
-        },
-        {
             "image": "projects/QR-Goats_HoofdPagina.png",
             "image2": "projects/QR-Goats_LoginPage.png",
             "image3": "projects/QR-Goats_HomePage.png",
